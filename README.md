@@ -55,7 +55,7 @@
 ## 🌎 Contato
 
 - Discord: `umarkyx.`
-- LinkedIn: N/A
+- LinkedIn: https://www.linkedin.com/in/marco-ant%C3%B4nio-de-morais-gastaldi-119a6b3ba/
 
 ---
 
