@@ -1,62 +1,47 @@
-# 👋 Yo, eu sou Mark
+# 👋 Salve, eu sou o Mark
 
-💻 Estudante de Desenvolvimento de Sistemas  
-🔐 Interessado em Cibersegurança e Pentest  
-🐧 Usuário Linux  
-🛹 Robô skatista profissional (talvez)
+💻 Desenvolvedor focado em Python | ⚔️ Aprendendo e criando projetos na prática  
+🚀 Construindo base sólida em programação
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Sobre mim
 
-- 🎓 Estudando programação e tecnologia
-- 🔒 Curto cibersegurança, redes e Linux
-- 🐍 Aprendendo Python na prática
-- ⚡ Gosto de mexer no sistema, automatizar coisas e testar ideias
-- 🎮 Também curto games e tecnologia em geral
-
----
-
-## 🧠 Atualmente aprendendo
-
-- Python
-- Redes
-- Linux
-- Segurança ofensiva
-- Git/GitHub
+- 🔭 Trabalhando em projetos pessoais com Python  
+- 🧩 Curto lógica, automação e sistemas simples  
+- 📚 Estudando programação do zero ao avançado  
+- 🎯 Objetivo: evoluir pra dev full stack no futuro  
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias
 
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 📌 Projetos
+## 📊 GitHub Stats
 
-- 🧮 Calculadora em Python
-- 🔐 Estudos de segurança e automação
+![Stats](https://github-readme-stats.vercel.app/api?username=MarkDevBrasil&show_icons=true&theme=tokyonight)
 
----
-
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkDevBrasil&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌎 Contato
+## 🧪 Projetos
 
-- Discord: `umarkyx.`
-- LinkedIn: https://www.linkedin.com/in/marco-ant%C3%B4nio-de-morais-gastaldi-119a6b3ba/
+- 💻 Scripts em Python
+- ⚙️ Automação de tarefas
+- 🧠 Experimentos com lógica e algoritmos
 
 ---
 
-> “quebrar o sistema também é uma forma de aprender ele”
+## 🌐 Contato
+
+- 💬 Discord: umarkyx.
+
+---
+
+## ⚡ mindset
+
+> “Primeiro aprende o básico bem feito, depois pensa em ser avançado.”
