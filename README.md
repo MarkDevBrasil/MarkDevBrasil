@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MarkDevBrasil&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarkDevBrasil)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkDevBrasil&layout=compact&theme=tokyonight)
 
