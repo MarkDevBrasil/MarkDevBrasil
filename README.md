@@ -1,4 +1,4 @@
-# 👋 Salve, eu sou o Mark O MOLESTADOR E ALICIADOR
+# 👋 Salve, eu sou o Mark
 
 💻 Desenvolvedor focado em Python | ⚔️ Aprendendo e criando projetos na prática  
 🚀 Construindo base sólida em programação
