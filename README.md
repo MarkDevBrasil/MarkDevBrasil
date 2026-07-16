@@ -26,7 +26,7 @@ class Mark:
             "OSINT"
         ]
 
-        self.goal = "Become a Cybersecurity Professional"
+        self.goal = "Live in nirvana"
 
     def currently_learning(self):
         return [
