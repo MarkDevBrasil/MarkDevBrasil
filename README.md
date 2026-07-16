@@ -105,7 +105,7 @@ mark = Mark()
 # 📬 Contact
 
 ```txt
-Discord : markdev
+Discord : Umarkyzx.
 
 Focus:
 Python • Linux • Pentesting • OSINT
@@ -115,6 +115,6 @@ Python • Linux • Pentesting • OSINT
 
 <div align="center">
 
-> **"Keep learning. Keep hacking. Stay ethical."**
+> **"Talk is cheap. Show me the code"**
 
 </div>
