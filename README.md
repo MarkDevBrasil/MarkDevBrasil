@@ -4,7 +4,7 @@
 
 ### Python
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=FF3B3B&center=true&vCenter=true&width=650&lines=Python+;Linux+Enthusiast;+Student;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=FF3B3B&center=true&vCenter=true&width=650&lines=Python+;Linux+Enthusiast;+Student;Pentesting;WebSec"/>
 
 </div>
 
