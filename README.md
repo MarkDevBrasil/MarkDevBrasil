@@ -17,7 +17,7 @@ class Mark:
 
     def __init__(self):
         self.name = "Mark"
-        self.location = "Earth"
+        self.location = "Belo Horizonte"
 
         self.interests = [
             "Python",
