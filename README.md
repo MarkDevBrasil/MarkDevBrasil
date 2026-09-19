@@ -1,118 +1,128 @@
-<div align="center">
+#  Mark Developer
 
-# Mark.
+> **Developer • Cybersecurity Student • Aspiring Pentester**
 
-### Developer
+```bash
+$ whoami
+Mark Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=FF3B3B&center=true&vCenter=true&width=650&lines=Python+;Linux+Enthusiast;+Student;Pentesting;WebSec"/>
-
-</div>
-
----
-
-#  About Me
-
-```python
-class Mark:
-
-    def __init__(self):
-        self.name = "Mark"
-        self.location = "Belo Horizonte"
-
-        self.interests = [
-            "Python",
-            "Linux",
-            "Pentesting",
-            "Social engineering"
-        ]
-
-        self.goal = "Live in nirvana"
-
-    def currently_learning(self):
-        return [
-            "Linux",
-            "Networking",
-            "Web Pentesting",
-            "OSINT"
-        ]
-
-mark = Mark()
+$ cat focus.txt
+Pentesting • Web Security • Linux • Networking
 ```
 
 ---
 
-# Stacks
+## 🧠 About Me
+
+I'm a **Systems Development student** currently focused on **Cybersecurity and Penetration Testing**.
+
+I'm building my skills through hands-on labs, personal projects and continuous learning, with a focus on understanding how systems work — and how they can be secured.
+
+Currently exploring:
+
+* 🔴 Penetration Testing
+* 🌐 Web Security
+* 🐧 Linux & Kali Linux
+* 🕵️ Reconnaissance & Enumeration
+* 🌐 Networking
+* 🐍 Python automation
+* 💻 Bash scripting
+
+---
+
+## ⚔️ Tech Stack
 
 ### Languages
 
 <p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
-### Operating Systems
+### Cybersecurity & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/Kali_Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
+  <img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
+</p>
 
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+### Environment
 
+<p>
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 </p>
 
 ---
 
-# 📚 Interests
+## 🎯 Current Focus
 
-- 🐍 Python
-- 🐧 Linux
-- 🔍 OSINT
-- 🌐 Web Pentesting
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   [✓] Python                                │
+│   [✓] Linux                                 │
+│   [✓] Bash                                  │
+│   [→] Networking                             │
+│   [→] Web Security                           │
+│   [→] Burp Suite                             │
+│   [→] Enumeration                            │
+│   [→] Penetration Testing                    │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
----
-
-# 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MarkDevBrasil&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkDevBrasil&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkDevBrasil&theme=tokyonight&hide_border=true"/>
-
-</div>
+> **Learning by breaking, understanding and rebuilding.**
 
 ---
 
-# 📈 Activity Graph
+## 🛠️ What I'm Building
 
-<div align="center">
+I'm interested in creating tools and projects related to:
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkDevBrasil&theme=tokyo-night"/>
+**Reconnaissance · OSINT · Automation · Web Security · Networking · Linux**
 
-</div>
-
----
-
-# 🎯 Current Goals
-- Complete more CTFs
+Most of my projects are built as part of my learning journey in cybersecurity.
 
 ---
 
-# 📬 Contact
+## 📚 Currently Learning
 
-```txt
-Discord : Umarkyzx.
-
-Focus:
-Python • Linux • Pentesting • OSINT
+```bash
+Cybersecurity
+├── Reconnaissance
+├── Enumeration
+├── Networking
+├── Web Security
+├── Vulnerability Assessment
+├── Burp Suite
+└── Penetration Testing
 ```
 
 ---
 
+## 🐍 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarkDevBrasil&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af&icon_color=ef4444" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="left">
+  <a href="https://github.com/MarkDevBrasil">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <div align="center">
 
-> **"Talk is cheap. Show me the code"**
+### `sudo apt update && sudo apt upgrade`
+
+**Keep learning. Keep building. Keep breaking.**
 
 </div>
