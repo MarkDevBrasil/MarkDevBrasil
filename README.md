@@ -1,56 +1,52 @@
-#  Mark Developer
+# Mark Developer
 
-> **Developer • Cybersecurity Student • Aspiring Pentester**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=700&lines=Developer+%7C+Cybersecurity+Student;Learning+Penetration+Testing;Linux+%7C+Python+%7C+Bash;Breaking+systems+to+understand+them" />
+</p>
 
-```bash
-$ whoami
-Mark Developer
-
-$ cat focus.txt
-Pentesting • Web Security • Linux • Networking
-```
+<p align="center">
+  <a href="https://github.com/MarkDevBrasil">
+    <img src="https://img.shields.io/badge/GitHub-MarkDevBrasil-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Systems Development student** currently focused on **Cybersecurity and Penetration Testing**.
+```bash
+$ whoami
 
-I'm building my skills through hands-on labs, personal projects and continuous learning, with a focus on understanding how systems work — and how they can be secured.
+Mark Developer
 
-Currently exploring:
+$ cat focus.txt
 
-* 🔴 Penetration Testing
-* 🌐 Web Security
-* 🐧 Linux & Kali Linux
-* 🕵️ Reconnaissance & Enumeration
-* 🌐 Networking
-* 🐍 Python automation
-* 💻 Bash scripting
+Cybersecurity
+Penetration Testing
+Web Security
+Linux
+Networking
+Python
+Bash
+```
+
+I'm a **Systems Development student** currently moving deeper into **Cybersecurity and Penetration Testing**.
+
+My current learning path is focused on understanding systems, networks and web applications through **hands-on practice, labs and personal projects**.
 
 ---
 
 ## ⚔️ Tech Stack
 
-### Languages
-
 <p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,bash" />
 </p>
-
-### Cybersecurity & Tools
-
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
+  <img src="https://skillicons.dev/icons?i=linux,kali" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
   <img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
-</p>
-
-### Environment
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 </p>
 
 ---
@@ -58,60 +54,92 @@ Currently exploring:
 ## 🎯 Current Focus
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   [✓] Python                                │
-│   [✓] Linux                                 │
-│   [✓] Bash                                  │
-│   [→] Networking                             │
-│   [→] Web Security                           │
-│   [→] Burp Suite                             │
-│   [→] Enumeration                            │
-│   [→] Penetration Testing                    │
-│                                             │
-└─────────────────────────────────────────────┘
+                    CYBERSECURITY
+                         │
+             ┌───────────┴───────────┐
+             │                       │
+         DEVELOPMENT              SECURITY
+             │                       │
+          Python                    Linux
+          Bash                    Networking
+                                    │
+                            ┌───────┴───────┐
+                            │               │
+                         WebSec          Pentest
+                            │               │
+                         Burp Suite    Enumeration
 ```
 
-> **Learning by breaking, understanding and rebuilding.**
+### Currently learning
+
+* 🔴 Penetration Testing
+* 🌐 Web Security
+* 🐧 Linux & Kali Linux
+* 🌐 Networking
+* 🕵️ Reconnaissance & Enumeration
+* 🐍 Python for automation
+* 💻 Bash scripting
+* 🔎 Traffic analysis with Wireshark
 
 ---
 
-## 🛠️ What I'm Building
+## 🛠️ Projects
 
-I'm interested in creating tools and projects related to:
+Most of my projects are built around my cybersecurity learning journey.
 
-**Reconnaissance · OSINT · Automation · Web Security · Networking · Linux**
-
-Most of my projects are built as part of my learning journey in cybersecurity.
-
----
-
-## 📚 Currently Learning
-
-```bash
-Cybersecurity
-├── Reconnaissance
-├── Enumeration
-├── Networking
-├── Web Security
-├── Vulnerability Assessment
-├── Burp Suite
-└── Penetration Testing
+```text
+Projects
+│
+├── 🐍 Python
+├── 🐚 Bash
+├── 🔎 OSINT
+├── 🌐 Networking
+├── 🔴 Web Security
+└── ⚔️ Pentesting
 ```
 
+I'm especially interested in building tools for **automation, reconnaissance, OSINT and security testing**.
+
 ---
 
-## 🐍 GitHub Activity
+## 📚 Learning Path
+
+```text
+Python
+  ↓
+Linux
+  ↓
+Networking
+  ↓
+Bash
+  ↓
+Web Security
+  ↓
+Burp Suite
+  ↓
+Enumeration
+  ↓
+Vulnerability Assessment
+  ↓
+Penetration Testing
+```
+
+> `Learning by breaking, understanding and rebuilding.`
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarkDevBrasil&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af&icon_color=ef4444" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarkDevBrasil&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af&icon_color=ef4444" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MarkDevBrasil&theme=transparent&hide_border=true&ring=ef4444&fire=ef4444&currStreakLabel=ffffff" />
 </p>
 
 ---
 
 ## 🌐 Connect
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/MarkDevBrasil">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -119,10 +147,12 @@ Cybersecurity
 
 ---
 
-<div align="center">
+<p align="center">
 
-### `sudo apt update && sudo apt upgrade`
+```bash
+$ sudo apt update && sudo apt upgrade
+```
 
 **Keep learning. Keep building. Keep breaking.**
 
-</div>
+</p>
