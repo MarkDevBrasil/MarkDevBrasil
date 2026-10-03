@@ -86,7 +86,15 @@ Python-based port scanner developed for networking studies and authorized securi
 [+] Red Team Fundamentals
 ```
 
----
+--
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003B8E,50:0066CC,100:00A6B2&height=120&section=footer&text=ROOT%20TEAM&fontSize=30&fontColor=FF0000&fontAlignY=65&animation=fadeIn"/>
+
+**"Access granted. Knowledge is power."**
+
+</div>
 
 <div align="center">
 
