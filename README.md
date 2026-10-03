@@ -1,158 +1,99 @@
-# Mark Developer
+````markdown
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=700&lines=Developer+%7C+Cybersecurity+Student;Learning+Penetration+Testing;Linux+%7C+Python+%7C+Bash;Breaking+systems+to+understand+them" />
-</p>
+# 𝙈𝙖𝙧𝙠𝘿𝙚𝙫𝘽𝙧𝙖𝙨𝙞𝙡
 
-<p align="center">
-  <a href="https://github.com/MarkDevBrasil">
-    <img src="https://img.shields.io/badge/GitHub-MarkDevBrasil-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### Developer | Cybersecurity Enthusiast
+
+[![GitHub](https://img.shields.io/badge/GitHub-MarkDevBrasil-181717?style=for-the-badge&logo=github)](https://github.com/MarkDevBrasil)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
+</div>
 
 ---
 
-## 🧠 About Me
+## `$ whoami`
 
 ```bash
-$ whoami
+┌──(mark㉿kali)-[~]
+└─$ whoami
 
-Mark Developer
+MarkDevBrasil
 
-$ cat focus.txt
+┌──(mark㉿kali)-[~]
+└─$ cat about.txt
 
-Cybersecurity
-Penetration Testing
-Web Security
-Linux
-Networking
-Python
-Bash
-```
-
-I'm a **Systems Development student** currently moving deeper into **Cybersecurity and Penetration Testing**.
-
-My current learning path is focused on understanding systems, networks and web applications through **hands-on practice, labs and personal projects**.
-
+> Software Development Student
+> Cybersecurity Enthusiast
+> Learning Offensive Security
+````
 ---
 
-## ⚔️ Tech Stack
+## ⚙️ Technical Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Burp%20Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
-  <img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
-</p>
+### Languages & Scripting
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
 
-## 🎯 Current Focus
+### Operating Systems & Tools
 
-```text
-                    CYBERSECURITY
-                         │
-             ┌───────────┴───────────┐
-             │                       │
-         DEVELOPMENT              SECURITY
-             │                       │
-          Python                    Linux
-          Bash                    Networking
-                                    │
-                            ┌───────┴───────┐
-                            │               │
-                         WebSec          Pentest
-                            │               │
-                         Burp Suite    Enumeration
-```
-
-### Currently learning
-
-* 🔴 Penetration Testing
-* 🌐 Web Security
-* 🐧 Linux & Kali Linux
-* 🌐 Networking
-* 🕵️ Reconnaissance & Enumeration
-* 🐍 Python for automation
-* 💻 Bash scripting
-* 🔎 Traffic analysis with Wireshark
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
 ## 🛠️ Projects
 
-Most of my projects are built around my cybersecurity learning journey.
+### 🔎 OSINT MASTER
+
+Automated OSINT tool installer developed in Bash, focused on reconnaissance and information gathering.
+
+### 🗡️ REAPER PORT SCANNER
+
+Python-based port scanner developed for networking studies and authorized security labs.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarkDevBrasil&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkDevBrasil&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarkDevBrasil\&theme=github-compact\&hide_border=true)](https://github.com/MarkDevBrasil)
+
+</div>
+
+---
+
+## 📡 Current Focus
 
 ```text
-Projects
-│
-├── 🐍 Python
-├── 🐚 Bash
-├── 🔎 OSINT
-├── 🌐 Networking
-├── 🔴 Web Security
-└── ⚔️ Pentesting
+[+] Web Application Security
+[+] Penetration Testing
+[+] Red Team Fundamentals
 ```
 
-I'm especially interested in building tools for **automation, reconnaissance, OSINT and security testing**.
-
 ---
 
-## 📚 Learning Path
+<div align="center">
 
-```text
-Python
-  ↓
-Linux
-  ↓
-Networking
-  ↓
-Bash
-  ↓
-Web Security
-  ↓
-Burp Suite
-  ↓
-Enumeration
-  ↓
-Vulnerability Assessment
-  ↓
-Penetration Testing
+### "Hack the World"
+
+</div>
 ```
-
-> `Learning by breaking, understanding and rebuilding.`
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarkDevBrasil&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af&icon_color=ef4444" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MarkDevBrasil&theme=transparent&hide_border=true&ring=ef4444&fire=ef4444&currStreakLabel=ffffff" />
-</p>
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://github.com/MarkDevBrasil">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-
-```bash
-$ sudo apt update && sudo apt upgrade
-```
-
-**Keep learning. Keep building. Keep breaking.**
-
-</p>
