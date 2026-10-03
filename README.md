@@ -1,6 +1,3 @@
-````markdown
-<div align="center">
-
 # 𝙈𝙖𝙧𝙠𝘿𝙚𝙫𝘽𝙧𝙖𝙨𝙞𝙡
 
 ### Developer | Cybersecurity Enthusiast
@@ -9,7 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-</div>
+
 
 ---
 
